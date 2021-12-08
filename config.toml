@@ -1,6 +1,6 @@
 # Basic
 title = "Creme de la Crema"
-baseURL = "https://creme-de-la-crema.github.io/"
+baseURL = "https://vno-hugo.netlify.app/"
 theme = "vno-hugo"
 
 # Pagination
