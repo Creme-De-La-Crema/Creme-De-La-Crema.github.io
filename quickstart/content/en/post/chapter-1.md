@@ -1,81 +1,20 @@
 ---
-date: 2017-04-09T10:58:08-04:00
-description: "The Grand Hall"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-tags: ["scene"]
-title: "Chapter I: The Grand Hall"
----
+date: 2021-12-11
+description: "My coffee experiences thoughout the years."
+featured_image: '/images/closeart.jpg'
+tags: ["cafes"]
+title: "First Brew"
+---	
+My introduction into the coffee world is probably very similar to anyone born and raised in New England: Dunkin Donuts. The earliest drink I can remember getting from Dunks was when I was in high school. It was their Hazelnut Coffee Coolata - a blended ice heavy-on-the-quotation-marks “coffee” drink that must’ve been 98% sugar and 2% coffee, served in an American-large plastic cup with a bright orange and pink straw. In classic New England fashion, ordering a cold coffee is graciously accepted year-round. Eventually my drink of choice evolved to iced coffee with plenty of cream and sugar, still mainly from the DD chain just south of my parent’s house. If I traveled to a city, I’d get to visit what I considered at the time a big step up: Starbucks. Here I wouldn’t vary too much from my usual sugary frozen coffee drink so I’d get a Java Chip Frappuccino on the recommendation of my older sister.
 
-Three hundred and forty-eight years, six months, and nineteen days ago
-to-day, the Parisians awoke to the sound of all the bells in the triple
-circuit of the city, the university, and the town ringing a full peal.
+In the winter of my junior year of high school, my friend Hedda and I went to a small coffee shop near the Dartmouth College campus. It was here I had my first cappuccino. It was served in a small, white cup with a thick handle on a matching white saucer. I had no comparisons on taste, so I was surprised when Hedda expressed her disappointment saying that the milk was burnt. Well it certainly didn’t look black or charred to me! 
 
-The sixth of January, 1482, is not, however, a day of which history has
-preserved the memory. There was nothing notable in the event which thus
-set the bells and the bourgeois of Paris in a ferment from early morning.
-It was neither an assault by the Picards nor the Burgundians, nor a hunt
-led along in procession, nor a revolt of scholars in the town of Laas, nor
-an entry of “our much dread lord, monsieur the king,” nor even a pretty
-hanging of male and female thieves by the courts of Paris. Neither was it
-the arrival, so frequent in the fifteenth century, of some plumed and
-bedizened embassy. It was barely two days since the last cavalcade of that
-nature, that of the Flemish ambassadors charged with concluding the
-marriage between the dauphin and Marguerite of Flanders, had made its
-entry into Paris, to the great annoyance of M. le Cardinal de Bourbon,
-who, for the sake of pleasing the king, had been obliged to assume an
-amiable mien towards this whole rustic rabble of Flemish burgomasters, and
-to regale them at his Hôtel de Bourbon, with a very “pretty morality,
-allegorical satire, and farce,” while a driving rain drenched the
-magnificent tapestries at his door.
+Moving on to my college years (which were naturally fueled by any and all forms of caffeine), I had access to my dad’s blue Hyundai hatchback. My college friends would pile into the clown car, and I’d drive us to the Starbucks across town. I recall drinking a lot of Pike Place drip brew. I thought that adults drink coffee black, so as a newly unsupervised nineteen year old, I believed I was already a mature adult so that’s how I took my coffee too. Without milk, I suffered through grande cup after grande cup of mediocre coffee. Now I’m not saying Pike Place is a bad blend, but it certainly isn’t great when it’s been made multiple hours ago then stored in a tall metal pump container. This pushed me quickly towards milk based espresso drinks, in particular, the latte. 
 
-What put the “whole population of Paris in commotion,” as Jehan de Troyes
-expresses it, on the sixth of January, was the double solemnity, united
-from time immemorial, of the Epiphany and the Feast of Fools.
+Made from a shot of espresso, steamed milk, and a bit of milk foam, the latte became my go-to drink everywhere. After graduation, I moved my life to Seattle, Washington, the coffee capitol of the United States (sorry Portland, we can contest this in a later post). Suddenly I was steeped in amazing coffee shops every way I turned. Victrola, Elm, Fulcrum, Monorail, Herkimer, Analog, Anchorhead, Storyville, Ghost Alley, Coffee Works, Espresso Vivace, Cedar & Spokes, Caffe Ladro, Cafe Vita, and the list goes on. Weekends were spent reading books in various coffee shops around the city, ordering eight-ounce lattes that came in a variety of vessels from handmade handleless ceramic mugs to logo-stamped white porcelain cups to thick glass tumblers. 
 
-On that day, there was to be a bonfire on the Place de Grève, a maypole at
-the Chapelle de Braque, and a mystery at the Palais de Justice. It had
-been cried, to the sound of the trumpet, the preceding evening at all the
-cross roads, by the provost’s men, clad in handsome, short, sleeveless
-coats of violet camelot, with large white crosses upon their breasts.
+Over time, I came to know what a good latte tastes like although I didn’t have the vocabulary to explain exactly what made a good latte good. To satisfy my coffee curiosity, my boyfriend and I visited the La Marzocco coffee shop (now operated by Caffe Vita) inside the KEXP radio station to take a class on espresso basics. Topics like the extraction curve, tamping, grind size, what effects the taste of espresso, and allowed us to pull a shot ourselves. Taking the class gave me the first glimpse into the vast world of coffee in the eyes of a barista or coffee connoisseur.
 
-So the crowd of citizens, male and female, having closed their houses and
-shops, thronged from every direction, at early morn, towards some one of
-the three spots designated.
+This all lead up to purchasing an espresso machine for our apartment. 
+	
 
-Each had made his choice; one, the bonfire; another, the maypole; another,
-the mystery play. It must be stated, in honor of the good sense of the
-loungers of Paris, that the greater part of this crowd directed their
-steps towards the bonfire, which was quite in season, or towards the
-mystery play, which was to be presented in the grand hall of the Palais de
-Justice (the courts of law), which was well roofed and walled; and that
-the curious left the poor, scantily flowered maypole to shiver all alone
-beneath the sky of January, in the cemetery of the Chapel of Braque.
-
-The populace thronged the avenues of the law courts in particular, because
-they knew that the Flemish ambassadors, who had arrived two days
-previously, intended to be present at the representation of the mystery,
-and at the election of the Pope of the Fools, which was also to take place
-in the grand hall.
-
-It was no easy matter on that day, to force one’s way into that grand
-hall, although it was then reputed to be the largest covered enclosure in
-the world (it is true that Sauval had not yet measured the grand hall of
-the Château of Montargis). The palace place, encumbered with people,
-offered to the curious gazers at the windows the aspect of a sea; into
-which five or six streets, like so many mouths of rivers, discharged every
-moment fresh floods of heads. The waves of this crowd, augmented
-incessantly, dashed against the angles of the houses which projected here
-and there, like so many promontories, into the irregular basin of the
-place. In the centre of the lofty Gothic* façade of the palace, the grand
-staircase, incessantly ascended and descended by a double current, which,
-after parting on the intermediate landing-place, flowed in broad waves
-along its lateral slopes,—the grand staircase, I say, trickled
-incessantly into the place, like a cascade into a lake. The cries, the
-laughter, the trampling of those thousands of feet, produced a great noise
-and a great clamor. From time to time, this noise and clamor redoubled;
-the current which drove the crowd towards the grand staircase flowed
-backwards, became troubled, formed whirlpools. This was produced by the
-buffet of an archer, or the horse of one of the provost’s sergeants, which
-kicked to restore order; an admirable tradition which the provostship has
-bequeathed to the constablery, the constablery to the _maréchaussée_,
-the _maréchaussée_ to our _gendarmeri_ of Paris.

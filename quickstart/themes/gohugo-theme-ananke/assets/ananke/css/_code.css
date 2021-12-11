@@ -22,3 +22,8 @@ pre {
   hyphens: none;
   position: relative;
 }
+
+
+p.b {
+  font-style: italic;
+} 

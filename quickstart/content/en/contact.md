@@ -1,14 +1,14 @@
 ---
 title: Contact
-featured_image: "images/notebook.jpg"
+featured_image: '/images/coffee notebook.jpg'
 omit_header_text: true
-description: We'd love to hear from you
+description: Feel free to contact via email!
 type: page
 menu: main
 
 ---
 
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+Fill out the form below to leave a question, comment, or riddle even. I'll get back to you as soon as I can.
 
-{{< form-contact action="https://example.com"  >}}
+{{< form-contact action="https://formspree.io/f/mlezebgw"  >}}

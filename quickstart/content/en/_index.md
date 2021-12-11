@@ -1,6 +1,6 @@
 ---
-title: "Ananke: a Hugo Theme"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+title: "Creme-De-La-Crema"
+featured_image: '/images/coffee bean batch.jpg'
+description: "One woman's journey through the world of coffee, with plenty of unnecessary commentary."
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+ 
