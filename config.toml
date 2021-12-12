@@ -2,6 +2,7 @@ title = "Creme-De-La-Crema"
 baseURL = "https://Creme-De-La-Crema.github.io"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
+publishDir = "docs"
 
 resourceDir = "../resources"
 
