@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cafes on Home</title>
+    <link>https://Creme-De-La-Crema.github.io/tags/cafes/</link>
+    <description>Recent content in cafes on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://Creme-De-La-Crema.github.io/tags/cafes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Brew</title>
+      <link>https://Creme-De-La-Crema.github.io/post/chapter-1/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Creme-De-La-Crema.github.io/post/chapter-1/</guid>
+      <description>My introduction into the coffee world is probably very similar to anyone born and raised in New England: Dunkin Donuts. The earliest drink I can remember getting from Dunks was when I was in high school. It was their Hazelnut Coffee Coolata - a blended ice heavy-on-the-quotation-marks “coffee” drink that must’ve been 98% sugar and 2% coffee, served in an American-large plastic cup with a bright orange and pink straw. In classic New England fashion, ordering a cold coffee is graciously accepted year-round.</description>
+    </item>
+    
+  </channel>
+</rss>
