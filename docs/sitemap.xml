@@ -38,5 +38,9 @@
     <loc>https://Creme-De-La-Crema.github.io/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url><url>
+    <loc>https://Creme-De-La-Crema.github.io/post/coffee-info-series-intro/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
