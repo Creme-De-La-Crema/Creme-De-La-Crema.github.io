@@ -1,5 +1,5 @@
 ---
-date: 2022-10-6
+date: 2022-10-06
 description: "Get ready to learn about the life of a coffee bean."
 featured_image: '/images/vitatable.jpg'
 tags: ["cafes"]
