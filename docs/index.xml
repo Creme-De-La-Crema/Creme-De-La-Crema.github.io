@@ -6,7 +6,18 @@
     <description>Recent content in Creme-De-La-Crema on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://Creme-De-La-Crema.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://Creme-De-La-Crema.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sip &amp; Learn Coffee Series: Introduction</title>
+      <link>https://Creme-De-La-Crema.github.io/post/coffee-info-series-intro/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Creme-De-La-Crema.github.io/post/coffee-info-series-intro/</guid>
+      <description>Hi friends!
+I’m starting a series of blog posts exploring and detailing the life of a coffee bean from Earth’s ground to brewed grounds. I’ll be researching the journey starting on a coffee plantation, continuing through the stages of processing and shipping, all the way through roasting and sales, then finally ending with brewing methods used to enjoy a delicious cup.
+My goal is to answer questions that bounce around in my head, as well as answer more basic coffee questions such as: Where and when does coffee grow?</description>
+    </item>
+    
     <item>
       <title>First Brew</title>
       <link>https://Creme-De-La-Crema.github.io/post/chapter-1/</link>
@@ -24,17 +35,6 @@
       <guid>https://Creme-De-La-Crema.github.io/contact/</guid>
       <description>Fill out the form below to leave a question, comment, or riddle even. I&amp;rsquo;ll get back to you as soon as I can.
 Your Name Email Address An email address is required.  Message   </description>
-    </item>
-    
-    <item>
-      <title>Sip &amp; Learn Coffee Series: Introduction</title>
-      <link>https://Creme-De-La-Crema.github.io/post/coffee-info-series-intro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Creme-De-La-Crema.github.io/post/coffee-info-series-intro/</guid>
-      <description>Hi friends!
-I’m starting a series of blog posts exploring and detailing the life of a coffee bean from Earth’s ground to brewed grounds. I’ll be researching the journey starting on a coffee plantation, continuing through the stages of processing and shipping, all the way through roasting and sales, then finally ending with brewing methods used to enjoy a delicious cup.
-My goal is to answer questions that bounce around in my head, as well as answer more basic coffee questions such as: Where and when does coffee grow?</description>
     </item>
     
   </channel>

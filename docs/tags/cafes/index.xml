@@ -6,7 +6,18 @@
     <description>Recent content in cafes on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://Creme-De-La-Crema.github.io/tags/cafes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://Creme-De-La-Crema.github.io/tags/cafes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sip &amp; Learn Coffee Series: Introduction</title>
+      <link>https://Creme-De-La-Crema.github.io/post/coffee-info-series-intro/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Creme-De-La-Crema.github.io/post/coffee-info-series-intro/</guid>
+      <description>Hi friends!
+I’m starting a series of blog posts exploring and detailing the life of a coffee bean from Earth’s ground to brewed grounds. I’ll be researching the journey starting on a coffee plantation, continuing through the stages of processing and shipping, all the way through roasting and sales, then finally ending with brewing methods used to enjoy a delicious cup.
+My goal is to answer questions that bounce around in my head, as well as answer more basic coffee questions such as: Where and when does coffee grow?</description>
+    </item>
+    
     <item>
       <title>First Brew</title>
       <link>https://Creme-De-La-Crema.github.io/post/chapter-1/</link>
@@ -14,17 +25,6 @@
       
       <guid>https://Creme-De-La-Crema.github.io/post/chapter-1/</guid>
       <description>My introduction into the coffee world is probably very similar to anyone born and raised in New England: Dunkin Donuts. The earliest drink I can remember getting from Dunkin was when I was in high school. It was their Hazelnut Coffee Coolata - a blended ice heavy-on-the-quotation-marks “coffee” drink that must’ve been 98% sugar and 2% coffee and/or coffee flavoring, served in an American-large plastic cup with a bright orange and pink straw.</description>
-    </item>
-    
-    <item>
-      <title>Sip &amp; Learn Coffee Series: Introduction</title>
-      <link>https://Creme-De-La-Crema.github.io/post/coffee-info-series-intro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Creme-De-La-Crema.github.io/post/coffee-info-series-intro/</guid>
-      <description>Hi friends!
-I’m starting a series of blog posts exploring and detailing the life of a coffee bean from Earth’s ground to brewed grounds. I’ll be researching the journey starting on a coffee plantation, continuing through the stages of processing and shipping, all the way through roasting and sales, then finally ending with brewing methods used to enjoy a delicious cup.
-My goal is to answer questions that bounce around in my head, as well as answer more basic coffee questions such as: Where and when does coffee grow?</description>
     </item>
     
   </channel>
